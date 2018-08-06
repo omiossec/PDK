@@ -1,4 +1,4 @@
-Function Get-Config {
+Function Get-PDKConfig {
     [CmdletBinding()]
     Param(
         [Parameter(Mandatory=$False, Position=0)]
